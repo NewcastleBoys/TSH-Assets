@@ -1,3 +1,5 @@
+<div style="background-color: rgb(50, 50, 50);">
+
 ![Transparent](images/logo/the-scope-hub-high-resolution-logo-transparent.png)
 # TSH Assets
 
@@ -37,3 +39,5 @@ Welcome to the page!
 
 ### Color
 ![](images/splash/scope_splash.png)
+
+</div>
