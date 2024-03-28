@@ -1,5 +1,3 @@
-![Transparent](images/logo/the-scope-hub-high-resolution-logo-transparent.png)
-
 Welcome to the page!
 
 ## Favicon
